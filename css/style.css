@@ -1,0 +1,12 @@
+body {
+    font-family: 'Kirang Haerang', cursive;
+    text-align: center;
+}
+
+.game {
+    font-weight: bold;
+}
+
+img {
+    cursor: pointer;
+}
